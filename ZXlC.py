@@ -632,4 +632,5 @@ def stop_user_bot(message):
         bot.send_message(message.chat.id, "⚠️ أنت لست المطور.")
 
 
+
 bot.infinity_polling()
